@@ -1,0 +1,80 @@
+Name: Danielle Mcgee
+Age: 90
+Height: 153.000000
+
+Name: Meredith Cummings
+Age: 73
+Height: 165.000000
+
+Name: Josephine Poole
+Age: 69
+Height: 175.000000
+
+Name: Elijah Lamb
+Age: 68
+Height: 179.000000
+
+Name: Leslie Moody
+Age: 65
+Height: 154.000000
+
+Name: Zahir Montoya
+Age: 57
+Height: 168.000000
+
+Name: Whoopi Alvarado
+Age: 56
+Height: 169.000000
+
+Name: Walker Herman
+Age: 50
+Height: 178.000000
+
+Name: Kirby Byrd
+Age: 49
+Height: 153.000000
+
+Name: Frances Rasmussen
+Age: 47
+Height: 189.000000
+
+Name: Jeremy Acosta
+Age: 43
+Height: 155.000000
+
+Name: Quentin Simpson
+Age: 42
+Height: 188.000000
+
+Name: Ria Jones
+Age: 41
+Height: 195.000000
+
+Name: Maya Mckenzie
+Age: 38
+Height: 157.000000
+
+Name: Jeremy Bailey
+Age: 37
+Height: 185.000000
+
+Name: Rhonda Sims
+Age: 35
+Height: 179.000000
+
+Name: Nicole Riddle
+Age: 35
+Height: 191.000000
+
+Name: Burke Guy
+Age: 30
+Height: 156.000000
+
+Name: Georgia Stanley
+Age: 21
+Height: 156.000000
+
+Name: Jillian Holt
+Age: 18
+Height: 155.000000
+
